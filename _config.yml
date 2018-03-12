@@ -7,3 +7,5 @@
 # Jekyll basic configurations
 #
 remote_theme: aksakalli/jekyll-doc-theme
+
+theme: jekyll-theme-slate
