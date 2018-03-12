@@ -1,1 +1,9 @@
+#
+# More configuration examples at:
+# http://jekyllrb.com/docs/configuration/
+#
 
+#
+# Jekyll basic configurations
+#
+remote_theme: aksakalli/jekyll-doc-theme
