@@ -6,6 +6,6 @@
 #
 # Jekyll basic configurations
 #
-remote_theme: aksakalli/jekyll-doc-theme
+theme: aksakalli/jekyll-doc-theme
 
-theme: jekyll-theme-slate
+#theme: jekyll-theme-slate
